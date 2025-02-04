@@ -1,6 +1,19 @@
 # WSServerPablo
 
-WSServerPablo is a WebSocket server implementation in Python to handle messages from ESP IoT Devices.
+## Table of Contents
+- [Overview](#overview)
+- [Features](#features)
+- [Main Functions](#main-functions)
+- [License](#license)
+
+## Overview
+This project uses Python to implement a WebSocket server hosted on a remote Linux server.  The server handles communication with ESP IoT devices.
+
+* Python language
+* Environment: Linux
+* Link: https://github.com/pablo1941/ws_server
+
+WSServerPablo is 
 
 ## Features
 
@@ -9,10 +22,6 @@ WSServerPablo is a WebSocket server implementation in Python to handle messages 
 - Easy to integrate with existing applications
 - Logs client connections and messages
 - Inserts data into a database
-
-## Requirements
-
-- Python 3.x
 
 ## Main Functions
 
