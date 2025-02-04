@@ -13,8 +13,6 @@ This project uses Python to implement a WebSocket server hosted on a remote Linu
 * Environment: Linux
 * Link: https://github.com/pablo1941/ws_server
 
-WSServerPablo is 
-
 ## Features
 
 - Handles WebSocket connections
